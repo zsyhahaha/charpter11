@@ -2,7 +2,10 @@
 #include "myTime.h"
 
 using namespace std;
-
+//main.cpp myTime.cpp myTime.h
+// vector.cpp vector.h mainVector.cpp
+//stone.cpp stone.h mainStone.cpp
+//mainComplex.cpp complex01.cpp complex01.h
 int main() {
     myTime planning;
     myTime coding(2,40);
